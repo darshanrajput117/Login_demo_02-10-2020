@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">loginBK</string>
+    <string name="tv_cname">Biz Insights</string>
+    <string name="tv_email">Email ID</string>
+    <string name="tv_password">Password</string>
+    <string name="hint_email">Enter Email Id</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="tv_forgetpassword">Forgot Password?</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="tv_orlogin">Also login from</string>
+</resources>
